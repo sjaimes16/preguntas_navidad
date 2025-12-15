@@ -53,13 +53,13 @@ export class Question {
     // Preguntas Fáciles
     { question: '¿Cuál es la capital de España?', options: ['Madrid', 'Barcelona', 'Sevilla', 'Valencia'], answer: 0 },
     { question: '¿Qué día de diciembre se celebra el Día de San Esteban?', options: ['26 de diciembre', '24 de diciembre', '31 de diciembre', '10 de diciembre'], answer: 0 },
-    { question: '¿Qué día de la semana se celebra la Navidad? ', options: ['Viernes', 'Miércoles', 'Lunes', 'Domingo'], answer: 3 },
-    { question: '¿Cómo se llama el famoso conejo de la marca de chocolate "Nestlé"?', options: ['Bunny', 'Conejito', 'Rodolfo', 'Kinder'], answer: 3 },
+    { question: '¿Cuál es el significado tradicional de la corona de Adviento que se utiliza durante la Navidad?', options: ['Representa los regalos que traerá Papá Noel', 'Simboliza la eternidad y la esperanza', 'Indica los días de vacaciones escolares', 'Representa a los Reyes Magos'], answer: 1 },
+    { question: '¿Por qué muchas celebraciones navideñas incluyen el uso de luces y velas?', options: ['Para decorar únicamente los árboles', 'Porque representan la llegada del verano', 'Porque simbolizan la luz y la esperanza en tiempos de oscuridad', 'Para ahuyentar los malos espíritus'], answer: 2 },
     { question: '¿Cuántos continentes existen en el mundo?', options: ['5', '6', '7', '8'], answer: 2 },
     { question: '¿De qué color es el "Grinch"?', options: ['Rojo', 'Verde', 'Azul', 'Amarillo'], answer: 1 },
     { question: '¿En qué continente se encuentra Australia?', options: ['Asia', 'Oceanía', 'Europa', 'América'], answer: 1 },
     { question: '¿Cuántos días tiene un año bisiesto?', options: ['365', '366', '364', '360'], answer: 1 },
-    { question: '¿Qué se esconde dentro del "Roscón de Reyes"?', options: ['Un juguete', 'Un anillo', 'Una figura de plástico', 'Una moneda'], answer: 1 },
+    { question: '¿Cuál de los siguientes elementos suele colocarse en la parte superior del árbol de Navidad y tradicionalmente simboliza la guía y la protección?', options: ['Un juguete', 'Una campana', 'Una vela', 'Una estrella'], answer: 3 },
     { question: '¿Qué país es conocido como "La tierra del sol naciente"?', options: ['Japón', 'China', 'Corea', 'Tailandia'], answer: 0 },
 
     // Preguntas de Dificultad Media
@@ -99,13 +99,13 @@ export class Question {
     { question: '¿Qué nombre se le da a la víspera de Navidad en inglés?', options: ['Christmas Eve', 'Boxing Day', 'New Year’s Eve', 'Saint Nicholas Day'], answer: 0 },
     { question: '¿En qué país nació el Papa Francisco?', options: ['Argentina', 'Italia', 'España', 'México'], answer: 0 },
     { question: '¿Qué comida típica se come en Estados Unidos durante el Día de Acción de Gracias?', options: ['Pavo', 'Pollo', 'Bistec', 'Pescado'], answer: 0 },
-    { question: '¿Cómo se llama la serie donde aparece el personaje de “Stranger Things”?', options: ['The Walking Dead', 'Stranger Things', 'Game of Thrones', 'Breaking Bad'], answer: 1 },
+    { question: 'En la serie Merlina (Wednesday) de Netflix, ¿cuál de los siguientes elementos de La Familia Addams es más evidente como referencia en la personalidad de Merlina?', options: ['Su amor por lo macabro y lo siniestro, como su padre Gómez.', 'La actitud fría y distante que recuerda a la matriarca Morticia.', 'La relación cercana y algo excéntrica con su hermano Pugsley.', 'Su capacidad para ver lo positivo en lo oscuro, como el tío Fétido.'], answer: 1 },
     { question: '¿Qué continente tiene más países?', options: ['Asia', 'Europa', 'África', 'América'], answer: 2 },
 
     // Preguntas de Dificultad Media
     { question: '¿En qué país se encuentra el famoso Monte Fuji?', options: ['Japón', 'China', 'Corea del Sur', 'Nepal'], answer: 0 },
     { question: '¿Quién pintó la famosa obra "La Mona Lisa"?', options: ['Vincent Van Gogh', 'Leonardo da Vinci', 'Pablo Picasso', 'Michelangelo'], answer: 1 },
-    { question: '¿Qué país es famoso por la tradición de los carnavales, especialmente en Río de Janeiro?', options: ['Brasil', 'Colombia', 'México', 'España'], answer: 0 },
+    { question: '¿Cuál fue el verdadero propósito inicial de la Gran Muralla China, más allá de defenderse de invasiones?', options: ['Controlar la migración, el comercio y cobrar impuestos.', 'Servir como ruta comercial para la Ruta de la Seda.', 'Marcar fronteras políticas internas del imperio.', 'Funcionar como observatorio astronómico.'], answer: 0 },
     { question: '¿En qué país se originó la pizza?', options: ['Italia', 'España', 'Francia', 'México'], answer: 0 },
     { question: '¿Cuál es el océano más pequeño?', options: ['Atlántico', 'Ártico', 'Índico', 'Pacífico'], answer: 1 },
     { question: '¿Qué famosa marca de automóviles tiene un logo con un "caballito"?', options: ['Ferrari', 'Lamborghini', 'Porsche', 'Maserati'], answer: 0 },
@@ -116,7 +116,7 @@ export class Question {
 
     // Preguntas Difíciles
     { question: '¿Qué filósofo griego fundó la escuela del Estoicismo?', options: ['Platón', 'Aristóteles', 'Séneca', 'Zenón de Citio'], answer: 3 },
-    { question: '¿Qué imperio construyó la Gran Muralla China?', options: ['Imperio Romano', 'Imperio Chino', 'Imperio Persa', 'Imperio Mongol'], answer: 1 },
+    { question: '¿Cuál de los siguientes filósofos afirmó que el conocimiento verdadero se alcanza mediante la duda metódica?', options: ['Aristóteles', 'René Descartes', 'John Locke', 'Immanuel Kant'], answer: 1 },
     { question: '¿En qué año comenzó la Primera Guerra Mundial?', options: ['1914', '1912', '1920', '1900'], answer: 0 },
     { question: '¿Cómo se llama el metal en cuyo símbolo químico se encuentra el número atómico 79?', options: ['Oro', 'Plata', 'Cobre', 'Plutonio'], answer: 0 },
     { question: '¿En qué país se originó la tradición de los “villancicos”?', options: ['México', 'España', 'Alemania', 'Italia'], answer: 1 },
