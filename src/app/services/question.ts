@@ -100,7 +100,7 @@ export class Question {
     { question: '¿En qué país nació el Papa Francisco?', options: ['Argentina', 'Italia', 'España', 'México'], answer: 0 },
     { question: '¿Qué comida típica se come en Estados Unidos durante el Día de Acción de Gracias?', options: ['Pavo', 'Pollo', 'Bistec', 'Pescado'], answer: 0 },
     { question: 'En la serie Merlina (Wednesday) de Netflix, ¿cuál de los siguientes elementos de La Familia Addams es más evidente como referencia en la personalidad de Merlina?', options: ['Su amor por lo macabro y lo siniestro, como su padre Gómez.', 'La actitud fría y distante que recuerda a la matriarca Morticia.', 'La relación cercana y algo excéntrica con su hermano Pugsley.', 'Su capacidad para ver lo positivo en lo oscuro, como el tío Fétido.'], answer: 1 },
-    { question: '¿Qué continente tiene más países?', options: ['Asia', 'Europa', 'África', 'América'], answer: 2 },
+    { question: '¿Cuál es el nombre del primer telescopio espacial lanzado por la NASA en 1990?', options: ['Telescopio Spitzer', 'Telescopio James Webb', 'Telescopio Hubble', 'Telescopio Chandra'], answer: 2 },
 
     // Preguntas de Dificultad Media
     { question: '¿En qué país se encuentra el famoso Monte Fuji?', options: ['Japón', 'China', 'Corea del Sur', 'Nepal'], answer: 0 },
