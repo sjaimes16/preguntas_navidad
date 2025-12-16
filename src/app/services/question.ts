@@ -37,7 +37,7 @@ export class Question {
 
     { question: '¿Cómo se llama el reno de Santa Claus con la nariz roja?', options: ['Rodolfo', 'Blitzen', 'Dancer', 'Vixen'], answer: 0 },
     { question: '¿Qué año se fundó la ciudad de Roma según la leyenda?', options: ['753 a.C.', '500 a.C.', '1000 a.C.', '400 a.C.'], answer: 0 },
-    { question: '¿En qué país se originó la tradición del “Calendario de Adviento”?', options: ['Alemania', 'Francia', 'Italia', 'España'], answer: 0 },
+    { question: '¿Qué representan las novenas de Navidad?', options: ['Nueve días de oración antes de Navidad', 'Fiestas y juegos navideños', 'Procesiones solo el 24 de diciembre', 'Celebraciones sin significado religioso'], answer: 0 },
     { question: '¿Cuál es el segundo planeta más cercano al sol?', options: ['Venus', 'Marte', 'Mercurio', 'Júpiter'], answer: 0 },
     { question: '¿Quién fue el primer emperador de China?', options: ['Qin Shi Huang', 'Sun Tzu', 'Confucio', 'Zhang Qian'], answer: 0 },
     { question: '¿Qué pintura famosa fue robada en 1994 del Museo de Arte de Oslo?', options: ['La Gioconda', 'El Grito', 'La Noche Estrellada', 'El Nacimiento de Venus'], answer: 1 },
