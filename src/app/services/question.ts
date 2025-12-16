@@ -35,7 +35,7 @@ export class Question {
     { question: '¿Quién inventó el teléfono?', options: ['Thomas Edison', 'Nikola Tesla', 'Alexander Graham Bell', 'Albert Einstein'], answer: 2 },
     { question: '¿Cuál es la capital de Canadá?', options: ['Ottawa', 'Toronto', 'Montreal', 'Vancouver'], answer: 0 },
 
-    { question: '¿Cómo se llama el reno de Santa Claus con la nariz roja?', options: ['Rodolfo', 'Blitzen', 'Dancer', 'Vixen'], answer: 0 },
+    { question: '¿En qué año se declaró la independencia de Colombia?', options: ['1810', '1800', '1825', '1900'], answer: 0 },
     { question: '¿Qué año se fundó la ciudad de Roma según la leyenda?', options: ['753 a.C.', '500 a.C.', '1000 a.C.', '400 a.C.'], answer: 0 },
     { question: '¿Qué representan las novenas de Navidad?', options: ['Nueve días de oración antes de Navidad', 'Fiestas y juegos navideños', 'Procesiones solo el 24 de diciembre', 'Celebraciones sin significado religioso'], answer: 0 },
     { question: '¿Cuál es el segundo planeta más cercano al sol?', options: ['Venus', 'Marte', 'Mercurio', 'Júpiter'], answer: 0 },
